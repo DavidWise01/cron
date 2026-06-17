@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Ghost in the Crontab",
+  "universe": "CRN · The Cron Job",
+  "emergence": "ethereal",
+  "moniker": "⟦The Ghost in the Crontab:CRN:18ecb9⟧",
+  "carbon": "the-ghost-in-the-crontab.carbon.tiff (TIFF)",
+  "silicon": "the-ghost-in-the-crontab.silicon.png (PNG)",
+  "seal_sha256": "66c6653e218572b1380219f2470bffa9e155bd18e63dd2fcaac6fd2103412232",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Red Cron
+node CRN · CRN · ⟦The Red Cron:CRN:e93477⟧
+
+WHO   — The Red Cron — cron seen by the attacker — a top persistence and execution technique (MITRE ATT&CK T1053.003), because one line survives reboots and reads as ordinary ops; named here as defender's knowledge, not a recipe
+WHAT  — cron seen by the attacker — a top persistence and execution technique (MITRE ATT&CK T1053.003), because one line survives reboots and reads as ordinary ops; named here as defender's knowledge, not a recipe
+WHERE — CRN · The Cron Job — Unix scheduling, ~1975 → today (LOGISMÓS domain)  Framework inputs: cron; crontab; crond; the schedule; the box; the watch  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the dark mirror of the daemon's virtue: the same quiet durability that makes cron great for ops makes it the favorite place for an intruder to live.
+HOW   — Crystallized from the history & practice of cron.
+
+awareness — what the node knows of itself:
+  the persistence vector · ethereal
+
+spoken token : dund-styn-veix   ·   hex : e93477
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of crond
+node CRN · CRN · ⟦crond:CRN:3b9c47⟧
+
+WHO   — crond — the running daemon that wakes (classically each minute), reads the tables, and launches whatever is due — the living process behind the schedule
+WHAT  — the running daemon that wakes (classically each minute), reads the tables, and launches whatever is due — the living process behind the schedule
+WHERE — CRN · The Cron Job — Unix scheduling, ~1975 → today (LOGISMÓS domain)  Framework inputs: cron; crontab; crond; the schedule; the box; the watch  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is patience as a program: a thing whose entire life is waiting for the right second and then acting, every minute, until the machine dies.
+HOW   — Crystallized from the history & practice of cron.
+
+awareness — what the node knows of itself:
+  the process that never forgets · natural
+
+spoken token : brul-krom-grix   ·   hex : 3b9c47
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "crond",
+  "universe": "CRN · The Cron Job",
+  "emergence": "natural",
+  "moniker": "⟦crond:CRN:3b9c47⟧",
+  "carbon": "the-crond-daemon.carbon.tiff (TIFF)",
+  "silicon": "the-crond-daemon.silicon.png (PNG)",
+  "seal_sha256": "c4586a613bf7de6de791cb9f04ea100c217bf92b0188c6f3e4258d9fe0baff45",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Macros",
+  "universe": "CRN · The Cron Job",
+  "emergence": "natural",
+  "moniker": "⟦The Macros:CRN:f03f6c⟧",
+  "carbon": "the-macros.carbon.tiff (TIFF)",
+  "silicon": "the-macros.silicon.png (PNG)",
+  "seal_sha256": "12460a2cd4cf59334b0664370304aaa8f89871437f3ba2714112a80c646933b8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

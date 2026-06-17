@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "cron",
+    "name": "Cron",
+    "epithet": "the daemon that keeps time · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Cron:CRN:0214c1⟧"
+  },
+  {
+    "slug": "chronos",
+    "name": "Chronos",
+    "epithet": "the root of the name · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Chronos:CRN:13a75a⟧"
+  },
+  {
+    "slug": "the-crontab",
+    "name": "The Crontab",
+    "epithet": "five fields and a command · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Crontab:CRN:017ba7⟧"
+  },
+  {
+    "slug": "the-crond-daemon",
+    "name": "crond",
+    "epithet": "the process that never forgets · natural",
+    "emergence": "natural",
+    "moniker": "⟦crond:CRN:3b9c47⟧"
+  },
+  {
+    "slug": "the-original-cron",
+    "name": "The Original Cron",
+    "epithet": "early Unix · ~1979 · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Original Cron:CRN:01b020⟧"
+  },
+  {
+    "slug": "vixie-cron",
+    "name": "Vixie Cron",
+    "epithet": "the 1987 standard · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Vixie Cron:CRN:84b653⟧"
+  },
+  {
+    "slug": "the-macros",
+    "name": "The Macros",
+    "epithet": "@reboot · @daily · @hourly · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Macros:CRN:f03f6c⟧"
+  },
+  {
+    "slug": "the-3am-job",
+    "name": "The 3am Job",
+    "epithet": "the dead-hour run · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The 3am Job:CRN:a0577b⟧"
+  },
+  {
+    "slug": "the-sandboxed-cron",
+    "name": "The Sandboxed Cron",
+    "epithet": "the actor in the box · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Sandboxed Cron:CRN:146769⟧"
+  },
+  {
+    "slug": "the-red-cron",
+    "name": "The Red Cron",
+    "epithet": "the persistence vector · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Red Cron:CRN:e93477⟧"
+  },
+  {
+    "slug": "the-blue-cron",
+    "name": "The Blue Cron",
+    "epithet": "the watch · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Blue Cron:CRN:986620⟧"
+  },
+  {
+    "slug": "the-purple-cron",
+    "name": "The Purple Cron",
+    "epithet": "the drill together · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Purple Cron:CRN:21ccc2⟧"
+  },
+  {
+    "slug": "the-successors",
+    "name": "The Successors",
+    "epithet": "anacron · systemd timers · fcron · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Successors:CRN:9796af⟧"
+  },
+  {
+    "slug": "the-dead-mans-switch",
+    "name": "The Dead-Man's Switch",
+    "epithet": "the job that reports · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Dead-Man's Switch:CRN:693bea⟧"
+  },
+  {
+    "slug": "the-ghost-in-the-crontab",
+    "name": "The Ghost in the Crontab",
+    "epithet": "the unwitnessed actor · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Ghost in the Crontab:CRN:18ecb9⟧"
+  }
+]

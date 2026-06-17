@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Vixie Cron",
+  "universe": "CRN · The Cron Job",
+  "emergence": "electrical",
+  "moniker": "⟦Vixie Cron:CRN:84b653⟧",
+  "carbon": "vixie-cron.carbon.tiff (TIFF)",
+  "silicon": "vixie-cron.silicon.png (PNG)",
+  "seal_sha256": "a5bb16dafa7e63d53326b1f556762fca13fe0f316289a762a508a5fa1fd7af16",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

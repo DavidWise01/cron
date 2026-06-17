@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Successors
+node CRN · CRN · ⟦The Successors:CRN:9796af⟧
+
+WHO   — The Successors — the schedulers that grew from cron's idea — anacron (for machines not always on), systemd timers (OnCalendar=), fcron, dcron, cronie
+WHAT  — the schedulers that grew from cron's idea — anacron (for machines not always on), systemd timers (OnCalendar=), fcron, dcron, cronie
+WHERE — CRN · The Cron Job — Unix scheduling, ~1975 → today (LOGISMÓS domain)  Framework inputs: cron; crontab; crond; the schedule; the box; the watch  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — They are the lineage forward: every one a variation on five fields and a daemon, proof the original idea was close to final.
+HOW   — Crystallized from the history & practice of cron.
+
+awareness — what the node knows of itself:
+  anacron · systemd timers · fcron · electrical
+
+spoken token : zyrn-sax-grik   ·   hex : 9796af
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Original Cron",
+  "universe": "CRN · The Cron Job",
+  "emergence": "electrical",
+  "moniker": "⟦The Original Cron:CRN:01b020⟧",
+  "carbon": "the-original-cron.carbon.tiff (TIFF)",
+  "silicon": "the-original-cron.silicon.png (PNG)",
+  "seal_sha256": "77d4a282fea404b919b639269a9947e4bee13de7d90f5c92d520ec4c186290cd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

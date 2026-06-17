@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Red Cron",
+  "universe": "CRN · The Cron Job",
+  "emergence": "ethereal",
+  "moniker": "⟦The Red Cron:CRN:e93477⟧",
+  "carbon": "the-red-cron.carbon.tiff (TIFF)",
+  "silicon": "the-red-cron.silicon.png (PNG)",
+  "seal_sha256": "54bc3ba8804a0f289fdd5c20248623c9f71db48c33848d3d718b34a46316c249",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
