@@ -4,6 +4,6 @@ slug  : cron
 seal  : dfd33d233f7949d237cad968c27862171e68555c7ad9df79408808263a335b27
 prev  : a4f9e4628059618d5c8ac292b3fdf3ac4efa9cbc14813540fb9753be7017b30a
 link  : d7026c6f6634552eedd17ad387dbb970b9669307a21de3387311dd9084f55823
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
